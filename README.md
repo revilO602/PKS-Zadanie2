@@ -12,4 +12,4 @@ Sockety sú v niektorých prípadoch neblokujúce (timeout = 0): prijímateľ pr
 alebo obidva počas keepalive fázy. Je to preto aby sme mohli program bez problému ukončiť a znova 
 zapnúť bez toho aby sme čakali na ukončenie threadov.
 
-![GUI](C:\Users\leont\Downloads\UDPCommunicator\PKS-UDPCommunicator\GUI.PNG)
+![GUI](GUI.PNG)
