@@ -1,0 +1,5 @@
+Meno a priezvisko: Oliver Leontiev
+Meno a priezvisko kolegu z dvojice: Ivan Hučko
+Číslo prideleného vedeckého článku pre zadanie LaTeX: 16
+Číslo predbežne preferovanej témy pre prezentáciu a esej: 4, (poprípade 12)
+Github účet: revilO602
